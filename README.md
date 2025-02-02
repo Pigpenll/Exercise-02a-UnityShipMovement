@@ -1,3 +1,16 @@
-# Exercise02a-UnityShipMovement
+# Exercise-02a-Ship
 
-# Ben Peters, my github username is Pigpenll
+Exercise for MSCH-C220
+
+A user-controlled ship for a space-shooter game. Created in Unity.
+
+## Implementation
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Ben Peters
